@@ -1,4 +1,4 @@
-# Salut à Tous !
+# Salut à Tous ! 👋
 ================
 
 ## Je m'appelle Rapikoui, je suis développeur Python, Java et HTML/CSS et je joue à Minecraft. <p>
