@@ -1,5 +1,6 @@
-# Salut à Tous ! 👋
-================
-
-## Je m'appelle Rapikoui, je suis développeur Python, Java et HTML/CSS et je joue à Minecraft. <p>
-## YouTube : https://www.youtube.com/channel/UCb9eWkSyOQQ0umwlMnA9plg
+***Hi !*** 👋
+My name is ***Rapikoui***, and I am a developper in *Java*, *Python* and *HTML/CSS*.
+My YouTube :
+https://www.youtube.com/@Rapikoui
+My GitHub :
+https://github.com/Rapikoui-Coder
