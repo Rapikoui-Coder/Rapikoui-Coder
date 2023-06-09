@@ -1,5 +1,4 @@
 # Hello World ! 👋
-============ <p>
 *Dresseur de Pokémons en apprentissage (:zany_face:), musicien, et développeur **Python**, **Java** et **Html/Css**.* <p>
 ***Long Live Linux & Open-Source ! 🐦*** <p>
 [![Rapikoui's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rapikoui-Coder&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <p>
